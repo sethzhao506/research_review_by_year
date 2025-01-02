@@ -1,3 +1,17 @@
+# Research Review in 2024
+The main themes are in 1) efficient multi-agent learning and 2) agentic AI in the Autonomous Driving Scenarios.
+
+## Efficient Multi-agent Learning
+1. Data-efficient Self-supervised Learning on Multi-agent Perception: **CooPre: Cooperative Pretraining for V2X Cooperative Perception** ([paper link](https://arxiv.org/abs/2408.11241)). We leverage a self-supervised reconstruction pretraining method to improve multi-agent perception framework in a data efficient way.
+2. Communication-efficient on Multi-agent Perception and Prediction: **V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction** ([paper link](https://arxiv.org/pdf/2412.01812)).
+3. Heterogeneous Modality Alignment on Multi-agent Perception: **AgentAlign: Misalignment-Adapted Multi-Agent Perception for Resilient Inter-Agent Sensor Correlations** ([paper link](https://arxiv.org/pdf/2412.06142)).
+
+## Agentic AI
+1. Agentic Interaction & Intention Benchmark: **WOMD-Reasoning: A Large-Scale Dataset and Benchmark for Interaction and Intention Reasoning in Driving** ([paper link](https://arxiv.org/pdf/2407.04281)).
+2. Agentic Decision-making: **Driving with Regulation: Interpretable Decision-Making for Autonomous Vehicles with Retrieval-Augmented Reasoning via LLM** ([paper link](https://arxiv.org/pdf/2410.04759)).
+
+
+
 # Research Review in 2022 & 2023
 The main themes are in 1) self-supervised learning in multimodal setting and 2) 3D algorithm and benchmarking.
 
